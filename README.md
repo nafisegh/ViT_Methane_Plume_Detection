@@ -13,5 +13,5 @@ In this project, we implement a ViT for methane plume detection and analysis, le
 
 ## 📁 Repository Structure
 
-│ └── ViT_Methane_Plume_Detection.ipynb # Main Jupyter notebook (Google Colab compatible)
-      Dataset.zip # A subset of PlumeBed dataset in this paper https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JD042795
+├── ViT_Methane_Plume_Detection.ipynb # Main Jupyter notebook (Google Colab compatible)
+├──Dataset.zip # A subset of PlumeBed dataset in this paper https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024JD042795
